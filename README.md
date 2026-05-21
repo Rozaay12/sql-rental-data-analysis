@@ -90,9 +90,8 @@ documentation/
 
 | File | Description |
 |------|-------------|
-| SQL_Query_Submissionn.pdf | SQL queries and outputs |
+| rental_analysis_queries.sql | SQL queries and outputs |
 | SQL Project Submission.pptx | Presentation & findings |
-| SQL copy.rtf | SQL code / notes |
 
 ---
 
